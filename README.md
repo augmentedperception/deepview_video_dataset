@@ -1,3 +1,5 @@
+# Immersive Light Field Video with a Layered Mesh Representation
+
 This archive contains the raw multi-camera light field video recordings used in our paper,
 
 > *Michael Broxton, John Flynn, Ryan Overbeck, Daniel Erickson, Peter Hedman, Matthew DuVall, Jason Dourgarian, Jay Busch, Matt Whalen, and Paul Debevec.* [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/). *ACM Transactions on Graphics, 39(4), 2020.*
